@@ -1,0 +1,1 @@
+sumaDivisores :: Int -> Int
